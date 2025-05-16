@@ -1,0 +1,12 @@
+ec\puce\motoshop\domain\AdministradorTest.class
+ec\puce\motoshop\domain\ImagenProductoTest.class
+ec\puce\motoshop\domain\ProductoTest.class
+ec\puce\motoshop\domain\TransaccionTest.class
+ec\puce\motoshop\domain\UsuarioTest.class
+ec\puce\motoshop\domain\DetallePedidoTest.class
+ec\puce\motoshop\domain\CategoriaTest.class
+ec\puce\motoshop\domain\DireccionTest.class
+ec\puce\motoshop\domain\ClienteTest.class
+ec\puce\motoshop\domain\FacturaTest.class
+ec\puce\motoshop\domain\CuentaBancariaTest.class
+ec\puce\motoshop\domain\PedidoTest.class

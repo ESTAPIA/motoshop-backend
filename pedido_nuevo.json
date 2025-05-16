@@ -1,0 +1,17 @@
+{
+    "carrito":  {
+                    "productos":  [
+                                      {
+                                          "idProducto":  1,
+                                          "cantidad":  2
+                                      }
+                                  ]
+                },
+    "cliente":  {
+                    "nombre":  "Nuevo Cliente",
+                    "cedula":  "1721234568",
+                    "email":  "nuevo.cliente@ejemplo.com",
+                    "direccion":  "Nueva Direccion de prueba",
+                    "telefono":  "0987654322"
+                }
+}
